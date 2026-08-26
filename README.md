@@ -4,7 +4,7 @@ Power BI project of season 3 summary in amateur basketball league
 
 ## 📥 Download Power BI File
 
-➡️ `Download .pbix file`
+➡️ 📥 [Download the Power BI report](https://github.com/karolwalaszczyk1989/basketball_analyticks_season_3_power_bi/blob/main/sezon3.pbix)
 
 ## 📌 Project Overview
 
