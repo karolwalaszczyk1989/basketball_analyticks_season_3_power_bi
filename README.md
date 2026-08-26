@@ -12,7 +12,7 @@ This project presents a statistical analysis of the third season of a local 5-on
 
 The report focuses on individual player performance, team statistics, season leaders and record-breaking performances.
 
-Season 3 was played from **[MONTH YEAR] to [MONTH YEAR]** and featured **[NUMBER] players** across six teams.
+Season 3 was played from May to June and featured 73 players across six teams.
 
 The report was built using a relational data model, Power Query and DAX measures designed to handle player-level and game-level statistics correctly.
 
