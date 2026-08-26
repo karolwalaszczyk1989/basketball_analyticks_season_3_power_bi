@@ -18,9 +18,17 @@ The report was built using a relational data model, Power Query and DAX measures
 
 Unfortunately, my team did not manage to repeat the success of the previous season. We finished **6th**, so there is only one reasonable conclusion: **we will be looking for revenge next season.** 🏀
 
-![Single game](screenshots/mecz.png)
+![Single game](screenshots/mecz.JPG)
 
 ## 📊 Report Structure
+
+Report was made to make a quick view of current gameweek. There were team stats and gameweek leadres avalible just in 1 click after refreshing data from fact table. Here are some examples of sections, leadres, records and also season overview for one team and for team stats:
+
+![Season Leadres](screenshots/liderzy_sez.JPG)
+![GW Leaders](screenshots/liderzy_kol.JPG)
+![Season Overview](screenshots/sezon.JPG)
+![Team Stats](screenshots/zespoly.JPG)
+![Records](screenshots/rekordy.JPG)
 
 ### 1️⃣ Season Leaders
 
